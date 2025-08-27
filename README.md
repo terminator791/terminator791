@@ -173,7 +173,7 @@
 </div>
 
 <div align="center">
-  <img src="https://snake.platane.se/snake.svg?username=terminator791&color=blue" alt="Snake animation" />
+  <a href="https://skyline.github.com/terminator791/2023"
 </div>
 
 <div align="center">
