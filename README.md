@@ -1,26 +1,51 @@
-
-
-<!-- ===================== HEADER ===================== -->
-
-<div align="center">
-  
 <!-- Sapaan + animasi mengetik -->
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY5NDNkYmJmOTlmNzQyZDJmZGEyYzk2YjJkNmNlMDk3M2YwODUwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
 <a href="https://iqbalbagus.tech" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Iqbal+%7C+Web+Developer+%26+Backend+Engineer;Go%2C+Laravel%2C+Node.js%2C;Build+fast%2C+reliable%2C+developer-friendly+systems" alt="Typing intro animasi" />
 </a>
-
+<!-- Badge status dan lokasi -->
+<div>
+  <a href="https://github.com/terminator791">
+    <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status: Available" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Semarang,%20Indonesia-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+</div>
 </div>
 
+
 <!-- ===================== ABOUT ===================== -->
-<h3 align="center">Tentang Saya</h3>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  Tentang Saya
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=terminator791&style=flat-square&color=0891B2" alt="Profile Views"/>
+  <a href="https://wakatime.com/@iqbalbagusph">
+    <img src="https://wakatime.com/badge/user/0d476efb-6dfb-46f9-9fa8-1f1af699065f.svg" alt="Total time coded"/>
+  </a>
+</div>
 
 <p align="center">
-  📍 Semarang &nbsp;•&nbsp; 
-  🌐 <a href="http://iqbalbagus.tech" target="_blank">iqbalbagus.tech</a> &nbsp;•&nbsp;
-  ✉️ <a href="mailto:iqbalbagus057@gmail.com">iqbalbagus057@gmail.com</a>
+ Junior <b>Backend Engineer</b> dan <b>Web Developer</b> dengan passion dalam membangun sistem yang scalable,
+  <br>efisien, dan developer-friendly..
 </p>
+
+<div align="center">
+  <a href="mailto:iqbalbagus057@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iqbalbagus057@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="http://iqbalbagus.tech">
+    <img src="https://img.shields.io/badge/Portofolio-iqbalbagus.tech-0077b5?style=flat-square&logo=google-chrome&logoColor=white" alt="Portofolio" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/terminator791" target="_blank">
@@ -63,34 +88,26 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36" /></a>
 </p>
 
-<!-- ===================== HIGHLIGHTS / PROJECTS ===================== -->
 
 <!-- ===================== STATS ===================== -->
 <h3 align="center">Statistik</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=terminator791&theme=transparent" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator791&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=terminator791&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=terminator791&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=terminator791&layout=compact&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=terminator791&theme=onedark"/>
 </p>
 
-<!-- Activity graph (opsional, animasi halus) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminator791&area=true&hide_border=true&theme=minimal" alt="Graf aktivitas kontribusi" />
-</p>
--->
+<!-- Snake contributions (opsional; aktifkan bila suka) -->
 ![Snake animation](https://raw.githubusercontent.com/terminator791/terminator791/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ===================== FOOTER ===================== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35">
+  Terima Kasih Sudah Berkunjung!
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35">
+</h2>
 <!-- Gelombang footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,3,5" alt="footer wave" width="100%" />
 
-<!-- ===================== OPSIONAL: EXTRA FUN ===================== -->
-<!-- Snake contributions (opsional; aktifkan bila suka) -->
-<!--
-![snake gif](https://github.com/terminator791/terminator791/blob/output/github-contribution-grid-snake.svg)
--->
-
-<!-- Catatan aksesibilitas: semua gambar punya alt text; badge memiliki kontras yang baik di dark/light mode. -->
