@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:2563eb,100:1e40af&animation=fadeIn" alt="header wave" width="100%" />
+
 <!-- Sapaan + animasi mengetik -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY5NDNkYmJmOTlmNzQyZDJmZGEyYzk2YjJkNmNlMDk3M2YwODUwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -115,5 +117,5 @@
 </h2>
 -->
 <!-- Gelombang footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,3,5" alt="footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:1e40af&customColorList=0,2,3,5" alt="footer wave" width="100%" />
 
