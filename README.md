@@ -173,7 +173,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/terminator791/terminator791/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://snake.platane.se/snake.svg?username=terminator791&color=blue" alt="Snake animation" />
 </div>
 
 <div align="center">
