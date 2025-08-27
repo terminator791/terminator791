@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://iqbalbagus.tech" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Iqbal+%7C+Web+Developer+%26+Backend+Engineer;Go%2C+Laravel%2C+Node.js%2C;Build+fast%2C+reliable%2C+developer-friendly+systems" alt="Typing intro animasi" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Iqbal+%7C+Web+Developer+%26+Backend+Engineer;Build+fast%2C+reliable%2C+developer-friendly+systems" alt="Typing intro animasi" />
 </a>
 <!-- Badge status dan lokasi -->
 <div>
