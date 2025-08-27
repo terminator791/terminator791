@@ -19,7 +19,7 @@
 
 
 <!-- ===================== ABOUT ===================== -->
-
+<!--
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
   Tentang Saya
@@ -58,6 +58,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
+-->
 
 <!-- Divider animasi tipis -->
 <p align="center">
@@ -65,6 +66,7 @@
 </p>
 
 <!-- ===================== TECH STACK ===================== -->
+<!--
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
@@ -87,9 +89,10 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" width="36" height="36" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36" /></a>
 </p>
-
+-->
 
 <!-- ===================== STATS ===================== -->
+<!--
 <h3 align="center">Statistik</h3>
 
 <p align="center">
@@ -98,16 +101,19 @@
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=terminator791&layout=compact&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=terminator791&theme=onedark"/>
 </p>
+-->
 
 <!-- Snake contributions (opsional; aktifkan bila suka) -->
 ![Snake animation](https://raw.githubusercontent.com/terminator791/terminator791/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ===================== FOOTER ===================== -->
+<!--
 <h2 align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35">
   Terima Kasih Sudah Berkunjung!
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35">
 </h2>
+-->
 <!-- Gelombang footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,3,5" alt="footer wave" width="100%" />
 
