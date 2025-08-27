@@ -4,8 +4,6 @@ Filosofi: animasi halus, fokus konten, aksesibel, dan cepat diload.
 -->
 
 <!-- ===================== HEADER ===================== -->
-<!-- Banner animasi (SVG, ringan) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Moh%20Iqbal%20Bagus%20P%20H&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5&desc=Web%20Developer%20%26%20Backend%20Engineer&descAlign=50&descAlignY=65" alt="Header gelombang bertuliskan Moh Iqbal Bagus P H" width="100%" />
 
 <div align="center">
   
@@ -71,9 +69,6 @@ Filosofi: animasi halus, fokus konten, aksesibel, dan cepat diload.
 <!-- ===================== STATS ===================== -->
 <h3 align="center">Statistik</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terminator791&show_icons=true&count_private=true&rank_icon=percentile&theme=transparent" alt="GitHub stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=terminator791&theme=transparent" alt="GitHub streak" />
 </p>
